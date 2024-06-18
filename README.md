@@ -1,6 +1,6 @@
 # Note Taker
 
-[Link to Render](https://note-taker-2-tuu3.onrender.com/notes)
+[Link to Render](https://note-taker-2-tuu3.onrender.com/)
 
 
 [Link to Repo](https://github.com/brandeecheung/note-taker)
